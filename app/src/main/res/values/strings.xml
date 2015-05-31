@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="mainTitle">My Nanodegree Apps!</string>
+
+    <string name="myAppName1">Spotify Streamer</string>
+    <string name="myAppName2">Football Scores</string>
+    <string name="myAppName3">Library App</string>
+    <string name="myAppName4">Build It Bigger</string>
+    <string name="myAppName5">XYZ Reader</string>
+    <string name="myAppName6">Capstone</string>
+    <string name="launchTextHead">"This button will launch my "</string>
+    <string name="launchTextTail">" app!"</string>
+    <string name="launchTextERROR">ERROR not a button app!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
